@@ -1,4 +1,4 @@
-## Coalition Technologies
+## Tasks Management
 
 ### Steps to Setup:
 - Copy `.env.example` as `.env`
